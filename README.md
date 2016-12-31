@@ -15,6 +15,8 @@ Enter directory to find duples:
 /home/username/target # пользователь указывает полный путь к папке, в которой искать дубликаты
 Analyzing files...
 
+# вывод результатов работы программы
+
 Found duplicates, size = 78514
 /home/username/target/screenshot1.png
 /home/username/target/stuff/misc/screenshot1.png
