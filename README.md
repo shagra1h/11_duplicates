@@ -24,7 +24,6 @@ Found duplicates, size = 78514
 Found duplicates, size = 1540
 /home/username/target/lol/notes.txt
 /home/username/target/stuff/misc/notes.txt
-
 ```
 
 Запуск на Windows происходит аналогичным образом.
