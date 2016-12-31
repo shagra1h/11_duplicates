@@ -12,7 +12,7 @@
 
 $ python3 duplicates.py
 Enter directory to find duples: 
-/home/username/target
+/home/username/target # пользователь указывает полный путь к папке, в которой искать дубликаты
 Analyzing files...
 
 Found duplicates, size = 78514
