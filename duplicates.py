@@ -49,9 +49,7 @@ if __name__ == '__main__':
             break
     print("Analyzing files... \n")
     files_in_target_dir = group_files_by_size(target_directory)
-    #print(files_in_target_dir, "\n")
     files_in_target_dir = eliminate_unique_files(files_in_target_dir)
-    #print(files_in_target_dir)
     if files_in_target_dir:
         for filesize, filelist in files_in_target_dir.items():
             print("Found duplicates, size =", filesize)
