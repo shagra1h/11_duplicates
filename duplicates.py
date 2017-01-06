@@ -27,6 +27,7 @@ def count_duplicates(filelist, aim_file):
             duplicates += 1
     return duplicates
 
+
 def eliminate_unique_files(files_grouped_by_size):
     amount_of_duplicates = 1
     processed_files = {}
